@@ -1,0 +1,8 @@
+Laboratorio1
+Daniel Escobar Giraldo
+C0247
+
+Link de github: https://github.com/DanielEscobar19/LaboratoriosBigData/tree/main/Laboratorio2
+Link de google drive: https://drive.google.com/drive/folders/1txCUvDPcRwuJL93CZgrOsDhYZqdfvUOq?usp=sharing
+
+Los dos links contienen los mismos archivos.
