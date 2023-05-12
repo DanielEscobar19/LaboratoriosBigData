@@ -2,7 +2,10 @@ import pandas as pd
 from collections import Counter
 from itertools import combinations
 
-df = pd.read_csv("Sales_January_2019.csv")
+url = 'https://raw.githubusercontent.com/DanielEscobar19/LaboratoriosBigData/main/Laboratorio3/Sales_January_2019.csv'
+
+# leemos el dataset
+df = pd.read_csv(url)
 
 # Agrupa los productos según su transacción (Order ID).
 transacciones = df.groupby('Order ID')['Product'].apply(list).tolist()
