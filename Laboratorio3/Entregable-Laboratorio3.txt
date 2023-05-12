@@ -1,0 +1,5 @@
+Fabián Orozco Chaves - B95690  
+Daniel Escobar Giraldo - C02748  
+
+Link del google collaboratory: https://colab.research.google.com/drive/1XYxoVb1K4QxUuCD2jA8XQ1JWXrX0B0Mf?usp=sharing
+Link del código en github: 
