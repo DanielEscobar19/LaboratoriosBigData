@@ -102,6 +102,9 @@ while True:
         if(candidatos[candidato] >= minSupport):
             candidatosPodados[candidato] += candidatos[candidato]
 
+    # for candidato in candidatos:
+    #     for :
+
     # imprimimos la lista de candidatos luego de ser podado
     print(f"Candidatos sin podados {str(iteracion)}:")
     for candidato in candidatosPodados:
